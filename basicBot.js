@@ -1,7 +1,8 @@
 /**
  *Copyright 2014 Yemasthui
  *Modifications (including forks) of the code to fit personal needs are allowed only for personal use and should refer back to the original source.
- *This software is not for profit, any extension, or unauthorised person providing this software is not authorised to be in a position of any monetary gain from this use of this software. Any and all money gained under the use of the software (which includes donations) must be passed on to the original author.
+ *This software is not for profit, any extension, or un
+ *authorised person providing this software is not authorised to be in a position of any monetary gain from this use of this software. Any and all money gained under the use of the software (which includes donations) must be passed on to the original author.
  */
 
 
@@ -177,10 +178,10 @@
     var botCreator = "Matthew aka. Yemasthui";
     var botCreatorIDs = [];
 
-    var basicBot = {
-        version: "2.1.4",
+    var DjD3vilBOT je sada upaljen! = {
+        version: "v1",
         status: false,
-        name: "basicBot",
+        name: "DjD3vilBOT",
         loggedInID: null,
         scriptLink: "https://rawgit.com/Yemasthui/basicBot/master/basicBot.js",
         cmdLink: "http://git.io/245Ppg",
@@ -225,11 +226,11 @@
             etaRestriction: false,
             welcome: true,
             opLink: null,
-            rulesLink: null,
+            rulesLink: http://www.rules.djd3vil.cf/,
             themeLink: null,
             fbLink: null,
             youtubeLink: null,
-            website: null,
+            website: http://www.djd3vil.cf,
             intervalMessages: [],
             messageInterval: 5,
             songstats: true,
@@ -1073,10 +1074,10 @@
                 'hueh', 'hu3', 'brbr', 'heu', 'brbr', 'kkkk', 'spoder', 'mafia', 'zuera', 'zueira',
                 'zueria', 'aehoo', 'aheu', 'alguem', 'algum', 'brazil', 'zoeira', 'fuckadmins', 'affff', 'vaisefoder', 'huenaarea',
                 'hitler', 'ashua', 'ahsu', 'ashau', 'lulz', 'huehue', 'hue', 'huehuehue', 'merda', 'pqp', 'puta', 'mulher', 'pula', 'retarda', 'caralho', 'filha', 'ppk',
-                'gringo', 'fuder', 'foder', 'hua', 'ahue', 'modafuka', 'modafoka', 'mudafuka', 'mudafoka', 'ooooooooooooooo', 'foda'
+                'gringo', 'fuder', 'foder', 'hua', 'ahue', 'modafuka', 'modafoka', 'mudafuka', 'mudafoka', 'ooooooooooooooo', 'foda', 'skip', 'odjebi', 'sranje', 'pusi kurac', 'fuck you'
             ],
             curses: [
-                'nigger', 'faggot', 'nigga', 'niqqa', 'motherfucker', 'modafocka'
+                'nigger', 'faggot', 'nigga', 'niqqa', 'motherfucker', 'modafocka', 'meh', 'skip', 'next'
             ]
         },
         connectAPI: function () {
