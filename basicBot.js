@@ -209,13 +209,14 @@
             usercommandsEnabled: true,
             lockskipPosition: 3,
             lockskipReasons: [
-                ["theme", "This song does not fit the room theme. "],
-                ["op", "This song is on the OP list. "],
-                ["history", "This song is in the history. "],
-                ["mix", "You played a mix, which is against the rules. "],
-                ["sound", "The song you played had bad sound quality or no sound. "],
-                ["nsfw", "The song you contained was NSFW (image or sound). "],
-                ["unavailable", "The song you played was not available for some users. "]
+["Tema", "Ova pjesma se ne uklapa u našu temu."],
+["Tema", "Ova pjesma se ne uklapa u našu temu."],
+["OP", "Ovo je pjesma na popisu OP."],
+["povijest", "Ova pjesma je bila u povjesti."],
+["mix", "Pustao si pjesmu koja nema pravila."],
+["zvuk", "Pjesma koju si puštao ima lošu kvalitetu zvuka ili nema zvuk."],
+["NSFW", "Pjesma koju si pustio sadržana je NSFW (slika i zvuk)."],
+["nedostupan", "Pjesma koju si pustio nije bila dostupna za neke korisnike."]
             ],
             afkpositionCheck: 15,
             afkRankCheck: "ambassador",
